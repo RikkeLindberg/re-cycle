@@ -248,7 +248,7 @@ ul {
   height: 100vh;
 
   background-image: linear-gradient(rgba(0, 68, 89, 0.4), rgba(0, 68, 89, 0.4)),
-    url("../../img/frantisek-duris-OdoWsR99gYA-unsplash.jpg");
+    url("../img/frantisek-duris-OdoWsR99gYA-unsplash.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -268,17 +268,17 @@ ul {
 
 .about-img {
   background-image: linear-gradient(rgba(0, 68, 89, 0.4), rgba(0, 68, 89, 0.4)),
-    url("../../img/mika-korhonen-DjP0DC4TWuI-unsplash.jpg");
+    url("../img/mika-korhonen-DjP0DC4TWuI-unsplash.jpg");
 }
 
 .contact-img {
   background-image: linear-gradient(rgba(0, 68, 89, 0.4), rgba(0, 68, 89, 0.4)),
-    url("../../img/johannes-groll-upXoQv5GAr8-unsplash.jpg");
+    url("../img/johannes-groll-upXoQv5GAr8-unsplash.jpg");
 }
 
 .routs-img {
   background-image: linear-gradient(rgba(0, 68, 89, 0.4), rgba(0, 68, 89, 0.4)),
-    url("../../img/cyrill-hanni-sPXGnvwOjdU-unsplash.jpg");
+    url("../img/cyrill-hanni-sPXGnvwOjdU-unsplash.jpg");
 }
 
 .map-container {
